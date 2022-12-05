@@ -1,0 +1,7 @@
+Your API key for kirianov.roman.olegovi4@gmail.com is:
+
+ha4hk9SmWuKtltyvR9Rz4ffYmISB4nxlzza3x4ah
+
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nal.usda.gov/fdc/v1/foods/search?query=apple&pageSize=2&api_key=ha4hk9SmWuKtltyvR9Rz4ffYmISB4nxlzza3x4ah
